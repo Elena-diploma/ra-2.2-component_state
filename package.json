@@ -15,7 +15,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "prop-types": "^15.8.1",
+    "uuid": "^8.3.2"
   },
   "eslintConfig": {
     "extends": [
@@ -36,7 +38,6 @@
     ]
   },
   "devDependencies": {
-    "prop-types": "^15.8.1",
-    "uuid": "^8.3.2"
+
   }
 }
